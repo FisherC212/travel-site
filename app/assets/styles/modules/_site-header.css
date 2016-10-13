@@ -39,7 +39,7 @@
 			transform: translateX(0);  
 
 			.site-header--dark & {  /* If this class is present, the logo will shrink */
-				transform: scale(.57);
+				transform: scale(.56);
 			}
 		}
 	}
